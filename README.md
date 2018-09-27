@@ -1,4 +1,4 @@
-# Translate Feature Demo
+# Translate Feature
 
 This is a stripped-down version of a feature I built within a portal. This feature translates items on the front-end which are tagged with a class of "e-s". This also works for elements rendered after Page_Load.
 
