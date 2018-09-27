@@ -6,8 +6,8 @@ This is a stripped-down version of a feature I built within a portal. This featu
 
 2 processes:
 
-* JavaScript in /assets/js/main.js -> /WebMethods.aspx.cs logic -> SiteConfig logic in /UICode/
-* Control loop in /SiteSecure.Master.cs -> SiteConfig logic in /UICode/ (for ASP elements: <asp:ListItem>, etc.)
+* [JavaScript in /assets/js/main.js](assets/js/main.js) -> [/WebMethods.aspx.cs logic](WebMethods.aspx.cs) -> [SiteConfig logic in /UICode/](UICode/)
+* [Control loop in /SiteSecure.Master.cs](SiteSecure.Master.cs) -> [SiteConfig logic in /UICode/](UICode/) (for ASP elements: <asp:ListItem>, etc.)
 
 ### JavaScript -> WebMethods -> SiteConfig
 
